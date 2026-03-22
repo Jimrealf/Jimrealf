@@ -43,4 +43,4 @@ Tools:          Jira, Confluence, Figma, Miro
 
 ### Connect
 
-[LinkedIn](https://www.linkedin.com/in/jim-haastrup/) | [Notion](https://jimhaastrup.notion.site)
+[LinkedIn](https://www.linkedin.com/in/jim-haastrup/) 
