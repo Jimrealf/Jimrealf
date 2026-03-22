@@ -34,13 +34,6 @@ Tools:          Jira, Confluence, Figma, Miro
 - **Edves** -- Refined product features supporting 1,975 schools across 11 countries, 440,000+ students
 - **Leeta Technologies** -- Led MVP development for a gas delivery platform
 
-### Current Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [project-aura](https://github.com/Jimrealf/project-aura) | Microservices e-commerce platform | Node.js, TypeScript, Docker |
-| [pm-practice-lab](https://github.com/Jimrealf/pm-practice-lab) | Interactive challenge platform for Product Managers | Next.js, Supabase, Gemini API |
-
 ### Connect
 
 [LinkedIn](https://www.linkedin.com/in/jim-haastrup/) 
